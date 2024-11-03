@@ -197,5 +197,5 @@ def train_and_save_style_models(dataset_path, max_images=10):
         else:
             print(f"No se encontraron imágenes válidas en el directorio de estilo: {style}")
 
-dataset_path = "../../WikiArt_Dataset"  # Replace with your dataset path
+dataset_path = "../../WikiArt_Dataset"  
 train_and_save_style_models(dataset_path, max_images=500)
