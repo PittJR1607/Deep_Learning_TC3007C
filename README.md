@@ -2,7 +2,7 @@
 
 Este proyecto implementa una red de transferencia de estilo neuronal para aplicar estilos artísticos específicos a imágenes de contenido. Utilizando redes neuronales convolucionales y técnicas avanzadas de procesamiento de imágenes, el modelo es capaz de aprender características visuales de diferentes estilos de arte y aplicarlos a nuevas imágenes. A continuación, se detallan los archivos clave del proyecto, la estructura del dataset y los pasos para entrenar y probar el modelo.
 
-PARA EL REPROTE COMPLETO DEL MODELO, ABRIR Módulo_2_Reporte_Modelo_Deep_Learning .pdf
+PARA EL REPORTE COMPLETO DEL MODELO, ABRIR Módulo_2_Reporte_Modelo_Deep_Learning .pdf
 
 ---
 
